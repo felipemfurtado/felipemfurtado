@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###Cytometry In R - Starter questions
+
+Location: Brasilia, Federal District, Brazil
+
+My Favorite Fluorophore/Metal-Isotope: PE
+
+Previous Coding Experience: Data Science and Analytics USP/ESALQ MBA
+
+What I Hope to Get From This Course: To use R developed projects in routine flow cytometry. 
